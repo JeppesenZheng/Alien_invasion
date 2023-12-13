@@ -1,9 +1,9 @@
 # Alien_invasion
 
-### explaination of each folder 
-- image:
+### Explaination of each folder 
+- Image:
   This folder contains the image which will be used in the game.
-- code:
+- Code:
   This folder contains all the codes for the game.
   - alien_invasion.py is the main code.
   - bullet.py is about the shooting part.
